@@ -1,0 +1,38 @@
+.containwer-fluid{
+background-color: rgb(26, 86, 134);
+}
+.navbar-fixed{
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: #222;
+  /* margin-bottom: 1000px; */
+
+}
+#head{
+  /* color: blueviolet; */
+  background-color: rgb(132, 177, 230);
+}
+#head a{
+  color: rgb(31, 106, 150);
+}
+.News_head{
+ text-align: center;
+  font-family: 'Lucida Sans';
+  font-weight: bold;
+  font-size: 30px;
+}
+
+a{
+  text-align: center;
+}
+
+.col
+{
+  margin-top: 50px;
+}
+
+
+
